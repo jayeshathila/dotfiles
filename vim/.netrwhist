@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/Users/jayeshathila/shuttl_inns_2/python/monorepo/b2c_rms/db'
+let g:netrw_dirhist_2='/Users/jayeshathila/shuttl_inns_2/python/monorepo/b2c_rms/db/migrations'
+let g:netrw_dirhist_3='/Users/jayeshathila/.vim'
+let g:netrw_dirhist_4='/Users/jayeshathila/.bashrc.d'
+let g:netrw_dirhist_5='/Users/jayeshathila/learning/docker_reg/auth'
